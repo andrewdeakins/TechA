@@ -1,2 +1,2 @@
 # TechA
-Technical Analysis Library based off TA Lib for C#
+Technical Analysis Backtesting Library for C#

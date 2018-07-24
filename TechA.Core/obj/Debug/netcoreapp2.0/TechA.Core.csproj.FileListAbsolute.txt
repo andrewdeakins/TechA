@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\Projects\TechA\TechA.Core\bin\Debug\netcoreapp2.0\TechA.Core.deps.json
+\\Mac\Home\Desktop\Projects\TechA\TechA.Core\bin\Debug\netcoreapp2.0\TechA.Core.dll
+\\Mac\Home\Desktop\Projects\TechA\TechA.Core\bin\Debug\netcoreapp2.0\TechA.Core.pdb
+\\Mac\Home\Desktop\Projects\TechA\TechA.Core\obj\Debug\netcoreapp2.0\TechA.Core.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Projects\TechA\TechA.Core\obj\Debug\netcoreapp2.0\TechA.Core.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Projects\TechA\TechA.Core\obj\Debug\netcoreapp2.0\TechA.Core.AssemblyInfo.cs
+\\Mac\Home\Desktop\Projects\TechA\TechA.Core\obj\Debug\netcoreapp2.0\TechA.Core.dll
+\\Mac\Home\Desktop\Projects\TechA\TechA.Core\obj\Debug\netcoreapp2.0\TechA.Core.pdb
+\\Mac\Home\Desktop\Projects\TechA\TechA.Core\obj\Debug\netcoreapp2.0\TechA.Core.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\Projects\TechA\TechA.Indicator\bin\Debug\netcoreapp2.0\TechA.Indicator.deps.json
+\\Mac\Home\Desktop\Projects\TechA\TechA.Indicator\bin\Debug\netcoreapp2.0\TechA.Indicator.dll
+\\Mac\Home\Desktop\Projects\TechA\TechA.Indicator\bin\Debug\netcoreapp2.0\TechA.Indicator.pdb
+\\Mac\Home\Desktop\Projects\TechA\TechA.Indicator\obj\Debug\netcoreapp2.0\TechA.Indicator.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Projects\TechA\TechA.Indicator\obj\Debug\netcoreapp2.0\TechA.Indicator.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Projects\TechA\TechA.Indicator\obj\Debug\netcoreapp2.0\TechA.Indicator.AssemblyInfo.cs
+\\Mac\Home\Desktop\Projects\TechA\TechA.Indicator\obj\Debug\netcoreapp2.0\TechA.Indicator.dll
+\\Mac\Home\Desktop\Projects\TechA\TechA.Indicator\obj\Debug\netcoreapp2.0\TechA.Indicator.pdb
